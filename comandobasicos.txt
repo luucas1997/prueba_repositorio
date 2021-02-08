@@ -1,0 +1,14 @@
+git instala una terminal (bash) 
+3 estados :
+-working diretory es donde trabajaremos con los archivos.
+-satging area donde agregaremos los archivos para prepararlos para el guardado
+-repository donde se guardaran todos los cambios 
+
+comandos:
+git init : para comenzar a iniciar a utilizar git 
+git add : para pasar los archivos al staging area
+git status : en que estado estan los archivos
+git commit : para pasar del staging area al git comit 
+git push : para subirlo a un repositorio remoto 
+git pull : trae los cambios de los otros desarrolladores
+git clone : traer una copia para poder trabajar
